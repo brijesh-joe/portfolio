@@ -4,8 +4,8 @@
         "url": "http://dcom24.com/",
         "description": "Dcom24.com social network. Meet new friends here today!",
         "banner": "https://infostans.com/wp-content/uploads/2020/11/dcom24.webp",
-        "color": "",
-        "lang": null,
+        "color": "#e34c26",
+        "lang": "Oxwall|Skdate",
         "date": "2016-11-19T09:58:47Z",
         "stars": 64,
         "forks": 9
@@ -13,10 +13,10 @@
     {
         "name": "Millionaires4Dating",
         "url": "https://millionaires4dating.com/",
-        "description": "Finding the right person isn’t easy, especially when you have many other demands on your time",
+        "description": "Finding the right person isn’t easy",
         "banner": "https://infostans.com/wp-content/uploads/2020/11/m4d.webp",
         "color": "#e34c26",
-        "lang": "HTML",
+        "lang": "Oxwall|Skdate",
         "date": "2020-09-28T13:58:21Z",
         "stars": 6,
         "forks": 2
@@ -27,7 +27,7 @@
         "description": "Investment Advice Bureau",
         "banner": "https://infostans.com/wp-content/uploads/2020/11/investmentadvicebureau.webp",
         "color": "#e34c26",
-        "lang": "HTML",
+        "lang": "Wordpress",,
         "date": "2020-10-09T08:16:31Z",
         "stars": 20,
         "forks": 7
@@ -38,7 +38,7 @@
         "description": "the personality type dating app",
         "banner": "https://infostans.com/wp-content/uploads/2020/11/sosyncd.webp",
         "color": "#e34c26",
-        "lang": "HTML",
+        "lang": "Wordpress|Node",
         "date": "2020-10-06T10:02:13Z",
         "stars": 5,
         "forks": 1
